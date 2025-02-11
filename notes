@@ -1,0 +1,10 @@
+change the world 
+change PX 4/ launch file/ mavros_posix_sitl.launch/...world 
+
+launch PX4 
+roslaunch px4 mavros_posix_sitl.launch 
+
+
+
+Typyfly paper:
+finding the prompt that they use ->if prompt have other variables -> find out how to get those and whats the output. 
